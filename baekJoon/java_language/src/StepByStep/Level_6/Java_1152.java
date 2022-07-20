@@ -20,7 +20,7 @@
 //        The last character is a blank
 //        예제 출력 3
 //        6
-package StepByStep.Lever_6;
+package StepByStep.Level_6;
 
 import java.io.BufferedReader;
 import java.io.IOException;

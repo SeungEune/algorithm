@@ -24,7 +24,7 @@
 //        839 237
 //        예제 출력 3
 //        938
-package StepByStep.Lever_6;
+package StepByStep.Level_6;
 
 import java.io.BufferedReader;
 import java.io.IOException;

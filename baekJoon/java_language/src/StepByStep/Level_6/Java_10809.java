@@ -15,7 +15,7 @@
 //        예제 출력 1
 //        1 0 -1 -1 2 -1 -1 -1 -1 4 3 -1 -1 7 5 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 
-package StepByStep.Lever_6;
+package StepByStep.Level_6;
 
 import java.io.BufferedReader;
 import java.io.IOException;
